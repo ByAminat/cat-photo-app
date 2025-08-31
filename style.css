@@ -1,16 +1,18 @@
-/* Background and basic styling */
 body {
-  background-color: lightblue;  /* 👈 you can change this */
+  background-color: lightblue; /* background color */
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
 }
 
-/* Center the main content */
-main {
-  max-width: 800px;
-  margin: auto;
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 10px;
   background: white;
-  padding: 20px;
   border-radius: 8px;
 }
